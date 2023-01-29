@@ -21,6 +21,6 @@ You can use this app to : <br>
 ## How to run  
 
 - Open android studio, and select File->New->import from version control(github).
-- Paste the git clone link you copied in step 2.
+- Paste the git repository url in android studio.
 - Wait for all the files to get synced.
 - Your app is ready to run in android studio.
