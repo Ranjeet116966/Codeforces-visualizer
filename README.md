@@ -1,5 +1,5 @@
 # Codeforces-Visualizer
-Visualiser App to View Various Contests and Compare Users!
+An android app for codeforces users.  
 
 This app can be used to fetch the User-Information, Rating-Changes, Problems-Solved and Contest-Details of any user on CodeForces (a Competitive Programming website).
 
